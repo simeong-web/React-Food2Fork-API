@@ -6,3 +6,4 @@ React app that connects with the Food 2 Fork API to call in a list of recipes an
 Project Goal:
 ***
 Iterating on React v16 skills.
+***
